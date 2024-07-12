@@ -1,6 +1,5 @@
 # headless-count
-
-<h1>Extension to ["austere-snap" project](https://github.com/Daryl-10/austere-snap): Counting ships indicated by colored dots using Computer Vision</h1>
+Extension to ["austere-snap" project](https://github.com/Daryl-10/austere-snap): Counting ships indicated by colored dots using Computer Vision
 
 <h3>In this project, we use an automated script that:</h3>
 <p>1) counts the number of vessels identified as magenta dots in the .png file provided</p>
@@ -10,7 +9,8 @@
 
 
 <h3>An extension feature is suggested: Log the number of vessels in a publicy exposed Google Sheets</h3>
-<b>Credit to [Jie Jenn](https://learndataanalysis.org/writing-data-to-google-sheets-google-sheets-api-in-python-part-3/) for the following resources:</b>
+
+Credit to ["Jie Jenn"](https://learndataanalysis.org/writing-data-to-google-sheets-google-sheets-api-in-python-part-3/) for the following resources:
 <p>1) code snippet used in insert_to_sheet.py (shown in this repo)</p>
 <p>2) code snippet used in Google.py (referenced, but not shown in this repo)</p>
 
